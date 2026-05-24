@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\wordpress\wp-content\themes\silver\resources\views/sections/home/productos.blade.php ENDPATH**/ ?>
