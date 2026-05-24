@@ -5,6 +5,7 @@
 @section('content')
   {{-- Solo incluimos lo que es ÚNICO de esta página --}}
   @include('sections.home.hero')
+  @include('sections.home.productesp')
   
 
   @while(have_posts()) @php(the_post())
